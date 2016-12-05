@@ -1,0 +1,53 @@
+The top movies that made more that 500 million:
+Star Wars: Episode I - The Phantom Menace|Fox|707.6215|1999
+Sleeping Beauty|Dis.|569.0535|1959
+The Sting|Uni.|697.9886|1973
+The Exorcist|WB|865.9915|1973
+Jaws|Uni.|1002.8571|1975
+Star Wars|Fox|1394.6764|1977
+Thunderball|UA|585.684|1965
+Snow White and the Seven Dwarfs|Dis.|853.47|1937
+Butch Cassidy and the Sundance Kid|Fox|552.468|1969
+Fantasia|Dis.|650.2304|1941
+The Lion King|BV|697.6613|1994
+Beverly Hills Cop|Par.|525.7846|1984
+The Jungle Book|Dis.|576.9137|1967
+Pinocchio|Dis.|527.7681|1940
+Shrek 2|DW|556.3288|2004
+Return of the Jedi|Fox|736.4852|1983
+Gone with the Wind|MGM|1582.0094|1939
+Grease|Par.|602.6688|1978
+Raiders of the Lost Ark|Par.|690.1507|1981
+Independence Day|Fox|542.3753|1996
+Ben-Hur|MGM|767.34|1959
+101 Dalmatians|Dis.|782.3521|1961
+Forrest Gump|Par.|615.0121|1994
+The Sound of Music|Fox|1115.1124|1965
+The Robe|Fox|512.5091|1953
+The Graduate|AVCO|670.0395|1967
+Titanic|Par.|1061.565|1997
+The Ten Commandments|Par.|1025.73|1956
+Doctor Zhivago|MGM|971.9806|1965
+Spider-Man|Sony|544.0656|2002
+Avatar|Fox|761.5088|2009
+Home Alone|Fox|530.3588|1990
+Love Story|Par.|548.0855|1970
+Jurassic Park|Uni.|674.9917|1993
+Ghostbusters|Col.|553.8207|1984
+The Dark Knight|WB|581.6287|2008
+Cleopatra (1963)|Fox|526.0465|1963
+American Graffiti|Uni.|514.5429|1973
+Airport|Uni.|517.6514|1970
+The Godfather|Par.|617.9637|1972
+The Empire Strikes Back|Fox|768.7544|1980
+Goldfinger|UA|519.129|1964
+Around the World in 80 Days|UA|505.9385|1956
+Pirates of the Caribbean: Dead Man's Chest|BV|506.0401|2006
+Mary Poppins|Dis.|612.1636|1964
+E.T.: The Extra-Terrestrial|Uni.|1110.7194|1982
+
+
+The top grossing movie is
+Gone with the Wind|MGM|1582.0094|1939
+
+the 70s made more money 14479.5439
